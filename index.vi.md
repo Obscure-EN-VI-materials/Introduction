@@ -32,4 +32,8 @@ TL;DR: Tôi muốn chia sẻ những gì Internet chưa chia sẻ.
 
 Tuy nhiên, những trang web này cũng rất nặng. Bạn có biết rằng [kích thước trung bình của một trang web hiện là kích thước của Doom](https://www.wired.com/2016/04/average-webpage-now-size-original-doom/) không? Trang web của tôi ở đây để khắc phục điều đó, hầu hết tất cả các trang web ở đây đều dưới 100KB và với các tài nguyên được lưu trong bộ nhớ cache, có thể nhỏ tới 10KB! Đừng quên rằng trang web của tôi cũng thân thiện với trình chặn quảng cáo (chán bạn cungthi.online và BlockAdBlock của bạn!) và không yêu cầu JavaScript.
 
-Một số người thậm chí còn muốn trả tiền cho tài liệu của họ. 123docz chẳng hạn, giờ đây cái gói "tải tài liệu 0đ" của họ khiến bạn khó chịu mỗi khi bạn muốn tải xuống thứ gì đó với giá "0đ". Tôi ghét 123docz cho đến hết đời. Cảm ơn và đcm bạn.
+> As internet connections have gotten faster, publishers and developers worry less about efficiency. (Wired)
+> 
+> Khi kết nối Internet ngày càng nhanh hơn, các publisher và devs bớt lo lắng hơn về tính hiệu quả.
+
+Một số người thậm chí còn muốn trả tiền cho tài liệu của họ. 123docz chẳng hạn, giờ đây cái gói "tải tài liệu 0đ" của họ khiến bạn khó chịu mỗi khi bạn muốn tải xuống thứ gì đó với giá "0đ". Tôi ghét 123docz cho đến hết đời. Cảm ơn và ghét bạn đến cùng.
