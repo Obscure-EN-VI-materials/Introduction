@@ -31,5 +31,7 @@ TL;DR: I want to share what the Internet haven't shared yet.
 
 These sites are also really heavy, though. Did you know that [the average size of a webpage is now the size of Doom](https://www.wired.com/2016/04/average-webpage-now-size-original-doom/)? My website is here to fix that, almost all webpages here are under 100KB, and with cached resources, can be as small as 10KB! Don't forget that my site is also ad-block friendly (curse you cungthi.online and your BlockAdBlock!) and doesn't require JavaScript (okay, there's anchor.js, but you can still use the website without JS enabled).
 
+> As internet connections have gotten faster, publishers and developers worry less about efficiency. (Wired)
+
 Some people even want to paywall their documents, too. 123docz for example, now put their "free to download" plan down to your throat every time you want to download something for "0đ". I hate 123docz for the rest of my life. Thanks and f you.
 
